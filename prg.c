@@ -16,6 +16,7 @@ main(){
 
  printf("\nWynik odejmowanie 1 od 2 to %d",o-b);
  printf("\n\n");
+ printf("\n\n");
 }
 
   
