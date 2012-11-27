@@ -11,7 +11,7 @@ scanf("%d",&b);
 
  printf("\nWynik mnozenia %d",o*b);
 
- printf("\nWynik dodawania to %d",o+b);
+ printf("\nWynik odejmowanie 1 od 2 to %d",o-b);
  printf("\n\n");
 }
 
