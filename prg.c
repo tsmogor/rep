@@ -10,7 +10,7 @@ main(){
   scanf("%d",&b);
   
 
-  printf("\nWynik mnozenia %d",o*b*b);
+  printf("\nWynik mnozenia %d",o*b);
 
   
   printf("\nWynik dzielenia calkowitego to %d",o/b);
