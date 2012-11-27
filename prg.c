@@ -1,6 +1,6 @@
 #include<stdio.h>
 main(){
-  int o;
+  int o, k;
   int b;
 
   printf("\nPodaj 2 cyfry : ");
