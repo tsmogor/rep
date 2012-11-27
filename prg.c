@@ -9,16 +9,14 @@ main(){
   scanf("%d",&o);
   scanf("%d",&b);
   
-
   printf("\nWynik mnozenia %d",o*b*b);
-
   
   printf("\nWynik dzielenia calkowitego to %d",o/b);
   printf("\n\n");
 
- printf("\nWynik odejmowanie 1 od 2 to %d",o-b);
- printf("\n\n");
- printf("\n\n");
+  printf("\nWynik odejmowanie 1 od 2 to %d",o-b);
+  printf("\n\n");
+  printf("\n\n");
 }
 
   
